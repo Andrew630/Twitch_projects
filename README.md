@@ -1,7 +1,10 @@
 # Twitch_projects
 This is a full-stack web application that allows users to search and receive recommendations for Twitch resources (streams, videos, and clips).
+
 • Provide baisc functiouns like Regisiter/Login/Logout and favorite collection.
+
 • Utilizing various recommendation algorithms to recommend latest resources to users.
+
 • Store user information in MySQL.
 
 
